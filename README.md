@@ -14,7 +14,7 @@ The main directory contains the directories of two Twitter datasets: twitter15, 
 - data.strnn.vol5000.txt : this file provides the temporal and spatial information of message propagations in a format like: 'source tweets ID\t index-of-the-current-tweet\t index-of-parent-tweet-list(split by ' ')\t index-of-perior-time-tweet(split by ' ')\t text-length\t list-of-index-word-belong-to-current-tweet'
 - data.strnn.vol5000.f*.et(tc)*.txt: these files provide the temporal and spatial information of message propagation in the early situation as the format like data.strnn.vol5000.txt file.  
 
-In the nfold director, there are:
+In the nfold directory, there are:
 - RNNtrainSet_twitter15(6)*_tree.txt, RNNtestSet_twitter15(6)*_tree.txt : these files provide the training and testing source tweet ID.  
 
 These datasets are preprocessed according to our requirement and original datasets can be available at [here](https://www.dropbox.com/s/7ewzdrbelpmrnxu/rumdetect2017.zip?dl=0)
