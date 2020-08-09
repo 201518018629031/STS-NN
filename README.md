@@ -27,9 +27,11 @@ sh run.sh 0 twitter15(6) '' '' '' '' 0(60,120,240,480,720,1440,2160)
 sh run.sh 0 twitter15(6) '' '' '' '' '' 0(10,20,40,60,80,200,300)  
 # Citation
 If you find the code is useful for your research, please cite this paper:  
-<pre><code>@inproceedings{huang2020deep,
+<pre><code>@Article{huang2020deep,
 author = {Huang, Qi and Zhou, Chuan and Wu, Jia and Liu, Luchen and Wang, Bin},
 title = {Deep Spatial-Temporal Structure Learning for Rumor Detection on Twitter},
-doi = {}
+year = {2020},
+journal = {Neural Computing and Applications},
+doi = {https://doi.org/10.1007/s00521-020-05236-4}
 }</code></pre>
 
