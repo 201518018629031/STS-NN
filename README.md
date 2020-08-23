@@ -1,5 +1,5 @@
 # STS-NN
-The implementation of our paper "Deep Spatial-Temporal Structure Learning for Rumor Detection on Twitter" 
+The implementation of our paper "Deep Spatial-Temporal Structure Learning for Rumor Detection on Twitter" published on Neural Computing and Applications
 
 # Requirements
 python 3.6.6  
